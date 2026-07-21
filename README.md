@@ -1,6 +1,7 @@
 # Three-Body-Problem
 
 Abstract
+
 The three-body problem examines the motion of three masses interacting through gravity. Unlike 
 the two-body problem, which has closed-form solutions, the three-body problem has no general 
 closed form solution. This is because the three-body problem is a chaotic system which makes it 
